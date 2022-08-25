@@ -7,10 +7,10 @@ I am :
 - A computer science student
 - Looking forward to work with you
 - Saying that you'll find more details 
-  on my [portfolio website](localhost:3000) , if you are interested :)
+  on my [portfolio website](https://www.fabestarred.com/) , if you are interested :)
   
 By the way, I've created a little HTML canvas game. You can find the code for that on here
-and even play it directly [on my website](localhost:3000/ballsy.html) .
+and even play it directly [on my website](https://www.fabestarred.com/ballsy.html) .
 
 <!--
 **derermisch/derermisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
